@@ -26,6 +26,8 @@ int partition(vector<meeting>&meeting_list,int lb,int ub){
     return i+1;
     
 }
+
+//sorting the meeting_list based on time the meeting ends
 void sort_meeting(vector<meeting>&meeting_list,int lb,int ub){
     if(lb<ub){
         int mid=partition(meeting_list,lb,ub);
