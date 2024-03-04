@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "C_Cpp.default.compilerPath": "/opt/homebrew/Cellar/gcc/13.2.0",
+    "C_Cpp.errorSquiggles": "enabled"
+}
