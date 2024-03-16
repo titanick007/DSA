@@ -22,7 +22,6 @@ vector<int> BFSofGraph(int n,vector<int> graph[]){
 }
 int main(){
     // Initialize the array of vectors
-   // Initialize the array of vectors
     vector<int> arr[6];
 
     // Define the graph
