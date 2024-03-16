@@ -1,5 +1,17 @@
 {
     "git.ignoreLimitWarning": true,
     "C_Cpp.default.compilerPath": "/opt/homebrew/Cellar/gcc/13.2.0",
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp"
+    }
 }
